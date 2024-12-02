@@ -11,7 +11,7 @@ int main(int argc, char  **argv)
 	SDL_version nd;
 	SDL_VERSION(&nd);
 
-	printf("Bienvenue sur la SDL %d.%d.%d !\n", nd.major, nd.minor, nd.patch);
+	printf("Bienvenu sur la SDL %d.%d.%d !\n", nd.major, nd.minor, nd.patch);
 
 
 
