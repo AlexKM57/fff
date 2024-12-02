@@ -4,6 +4,7 @@
 
 
 //gcc src/main.c -o bin/prog -I include -L lib -lmingw32 -lSDL2main -lSDL2
+// ligne pour compiler
 
 
 int main(int argc, char  **argv)
